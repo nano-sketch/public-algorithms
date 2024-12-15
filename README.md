@@ -1,2 +1,2 @@
 # public-algorithms
-python algorithms list
+multi-lang algorithms list
